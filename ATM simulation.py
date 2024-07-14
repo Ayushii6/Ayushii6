@@ -33,7 +33,7 @@ if task>=1 and task<=3:
         if withdrawl_amount>available_amount:
             print("sorry your available balnce is less")
         else:
-            withdrawl_amount-=available_amount
+             available_amount -= withdrawl_amount
             print("now your available balance is",available_amount)
 else:
     print("select in between 1 to 3" )
