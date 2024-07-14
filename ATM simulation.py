@@ -1,7 +1,7 @@
 name=input("Enter your name:")
 print("hello",name)
 message="""
-How may i help you madam
+How may i help you 
 
 
 please select any of them,option,
